@@ -10,7 +10,7 @@ A artifact repository for gode related artifacts.
 Add the following to maven profile
 >        <repository>
 >          <id>github</id>
->          <name>GitHub OWNER Apache Maven Packages</name>
->          <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+>          <name>GitHub ibs-gode Apache Maven Packages</name>
+>          <url>https://maven.pkg.github.com/ibs-gode/gode-artifacts</url>
 >        </repository>
         
