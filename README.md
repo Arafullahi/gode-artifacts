@@ -20,11 +20,11 @@ Add the following to maven profile
 
 Add the following in settings.xml
 
->   <server>
->      <id>github</id>
->      <username>USERNAME</username>
->      <password>TOKEN</password>
->    </server>
+>     <server>
+>       <id>github</id>
+>       <username>USERNAME</username>
+>       <password>TOKEN</password>
+>      </server>
 
 Remember to provide github username instead of USERNAME and generate personal token from github and provide it instead of TOKEN.
 
